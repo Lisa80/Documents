@@ -6,7 +6,7 @@
 思考ing，一句话也不想多说...
 
 【2016-02-28】晴天
-
+ 
  <!DOCTYPE html>
   <html>
   <head>
@@ -18,7 +18,9 @@
 <h2 align=center>《帕丁顿熊》</h2>
 <h3 align=center>暖暖的都是爱 </h3>
 
-<p>影片最后，Judy 邀请她的小男友Tony到自己家里作客，布朗太太哭了，小编始终没Get到，究竟是喜极而泣觉得女儿长大了，还是舍不得女儿终有一天要出嫁，又或者是为女儿这么小就开始谈恋爱而忧心？
+<p style="font-weight:bold;font-size:2em;text-shadow:0px -1px 0px #000000 0px 1px 3px 606060;color:#606060);">影片最后，</p>
+
+<p style="font-family:cursive;font-style:italic;font-weight:bold;">Judy 邀请她的小男友Tony到自己家里作客，布朗太太哭了，小编始终没Get到，究竟是喜极而泣觉得女儿长大了，还是舍不得女儿终有一天要出嫁，又或者是为女儿这么小就开始谈恋爱而忧心？
 小编迫不及待的开始了与搜索引擎间的互动，进行了一定的脑补。</p>
 <p>恋爱，是两个人基于一定的物质条件和共同的人生理想，在各自内心形成的对对方的最真挚的仰慕，并渴望对方成为自己终生伴侣的最强烈、最稳定、最专一的感情，是异性或同性互相爱慕的行动表现。
 </p>
@@ -26,16 +28,57 @@
 那么问题来了：</b></p>   <!--注释内容-->
 <p style="text-indent:2em;">Judy这时候谈恋爱是否合适呢？  </p>
 <p style="text-indent:2em;">父母是否应该介入呢？   </p>
-<p>相信：      </p>
+<p style="outline-color:red;outline-style:dotted;outline-width:2;">相信：      </p>
   <p style="text-align:center;color:rgba(0,255,0,0.5);line-height:4em;">     <b>
   一万个观众，就有一万个哈姆莱特，答案在每个人心中。<br>  
   一万个观众，就有一万个哈姆莱特，答案在每个人心中。<br>  
   一万个观众，就有一万个哈姆莱特，答案在每个人心中。<br>   
   一万个观众，就有一万个哈姆莱特，答案在每个人心中。 <br>  
   一万个观众，就有一万个哈姆莱特，答案在每个人心中。</b>  </p>
+   <p>
+  <ul>
+  <style>
+     li {list-style-type:circle;text-align:left;color:red}
+     </style>
+  <li>一万个观众，就有一万个哈姆莱特，答案在每个人心中。</li><br>  
+   <li>一万个观众，就有一万个哈姆莱特，答案在每个人心中。</li><br>  
+   <li>一万个观众，就有一万个哈姆莱特，答案在每个人心中。</li><br>   
+  <li> 一万个观众，就有一万个哈姆莱特，答案在每个人心中。</li> <br>  </ul>  </p>
+  
+  <table align=center style="vertical-align:center;text-align:center">
+   <style>
+           th,td {border:1px solid blue}
+        </style>
+  <caption style="font-weight:bold;">数据分析统计</caption>
+  <tbody>
+        <tr>
+       
+           <th> 序列</th>
+            <th> 名称  </th>
+             <th>  增粉  </th>
+              <th>  取关  </th>  </tr>
+           <tr>  <td>   1   </td>
+                <td>   拔罐   </td>
+                   <td>   264   </td>
+                      <td>   17   </td>
+                      <tr>  <td>   2   </td>
+                <td>   穴位   </td>
+                   <td>   147   </td>
+                      <td>   9   </td>
+        </tr>   </tbody>
+  </table>
+  
+  <p>
+  <style>
+       a: visited {color:#000000}
+       a {color:#ff0000}
+      
+  </style>
+    <a href="https://github.com" target=_blank> 作者
+    </a>
+  </p>
 </body>
 </html>    
-
 
 
 【2016-02-27】晴天
